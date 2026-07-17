@@ -204,6 +204,6 @@ Lists project dependencies.
 
 # Author
 
-**Meghana Kesam Reddy**
+**Meghana KesamReddy**
 
 Developed as part of the **Coding Best Practices for Beginners** assignment.
