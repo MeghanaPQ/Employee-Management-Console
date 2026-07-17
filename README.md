@@ -194,9 +194,8 @@ Lists project dependencies.
 
 # Future Improvements
 
-- Connect with SQLite or MySQL database
+- Connect with or MySQL database
 - Add Login Authentication
-- Build a GUI using Tkinter
 - Develop REST APIs using Flask or FastAPI
 - Add Unit Testing
 
